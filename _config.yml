@@ -25,6 +25,7 @@ github_username:  geduo15
 # Build settings
 markdown: kramdown
 theme: minima
+baidu_analytics: 86dce953f00c8e9a667f026ab6562a98
 plugins:
   - jekyll-feed
 
