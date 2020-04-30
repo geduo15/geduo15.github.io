@@ -1,4 +1,9 @@
-# Some best blogs for the roadmap of the natural language process 
+---
+layout: post
+title: "Some best blogs for the roadmap of the natural language process"
+categories: misc
+---
+ 
 ## Word2vector
 - http://ruder.io/word-embeddings-1/
 - http://ruder.io/word-embeddings-softmax/index.html
