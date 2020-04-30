@@ -51,6 +51,7 @@ minima:
 # - about.md
 
 # Build settings
+google_analytics: UA-165019692-1
 theme: minima
 baidu-analysis: 86dce953f00c8e9a667f026ab6562a98
 plugins:
